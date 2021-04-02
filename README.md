@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Forhad-Khan-Alif
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning css...
+- 🌱 I’m currently learning html & css...
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
 ############################
-#  📫 How to reach me ??  #
-#  forhadkhanaj@gmail.com #
+  📫 How to reach me ??  
+  forhadkhanaj@gmail.com 
 ############################
 
 <!---
